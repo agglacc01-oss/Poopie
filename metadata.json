@@ -1,0 +1,5 @@
+{
+  "name": "LearnMORE",
+  "description": "An AI-powered quiz generator that creates personalized learning paths from your uploaded documents (PDF, Word, etc.). Track your progress with performance analytics.",
+  "requestFramePermissions": []
+}
